@@ -5,7 +5,7 @@ Simple discord bot to convert English(AD) to Nepali(BS) date.
 The bot has two slash commands.
 - `/help` for help. 
 - `/date` to convert todays date. 
-- `/date <today|yesterday|tommorrow|yyyy-mm-dd>` to specify date. 
+- `/date <today|yesterday|tomorrow|yyyy-mm-dd>` to specify date. 
  
 ## Credits
 Parses date using hamro patro date converter api. <br/>
