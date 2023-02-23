@@ -34,7 +34,7 @@ async def help(interaction: discord.Interaction):
 
 
 @bot.tree.command(name='date', description='Nepali date chahiyo.')
-@app_commands.describe(date='Options: today | tommorow | yesterday | <yyyy-mm-dd>')
+@app_commands.describe(date='Options: today | tomorrow | yesterday | <yyyy-mm-dd>')
 async def date(interaction: discord.Interaction, date: str = None):
     converted = convert_to_bs(date=date)
     if converted is None:
