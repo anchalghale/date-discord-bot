@@ -1,5 +1,5 @@
 # date-discord-bot
-Simple Discord Bot to convert English(AD) to Nepali(BS) date.
+Simple discord bot to convert English(AD) to Nepali(BS) date.
 
 ## Commands
 The bot has two slash commands.
